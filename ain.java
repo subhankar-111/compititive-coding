@@ -1,6 +1,6 @@
  import java.util.*;
 
-public class main {
+public class ain {
 
     public static List<List<String>> groupAnagrams(String[] strs) {
 
@@ -27,7 +27,7 @@ public class main {
         return new ArrayList<>(map.values());
     }
 
-    public static void main(String[] args) {
+    public static void aion(String[] args) {
 
         String[] strs = {
             "eat", "tea", "tan", "ate", "nat", "bat"
